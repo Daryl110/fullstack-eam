@@ -9,3 +9,15 @@ header{
     width: 100vw;
     background-color: blueviolet;
 }
+
+section{
+    height: 60vh;
+    width: 100vw;
+    background-color: chartreuse;
+}
+
+footer{
+    height: 20vh;
+    width: 100vw;
+    background-color: coral;
+}
