@@ -7,17 +7,17 @@
 header{
     height: 20vh;
     width: 100vw;
-    background-color: blueviolet;
+    background-color: darkblue;
 }
 
 section{
     height: 60vh;
     width: 100vw;
-    background-color: chartreuse;
+    background-color: brown;
 }
 
 footer{
     height: 20vh;
     width: 100vw;
-    background-color: coral;
+    background-color: chartreuse;
 }
